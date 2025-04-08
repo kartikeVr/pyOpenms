@@ -102,7 +102,5 @@ analyze_spectrum("your_file.mzML", 0)
 - numpy
 
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 
